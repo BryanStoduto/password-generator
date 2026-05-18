@@ -7,5 +7,5 @@ O projeto cria senhas seguras automaticamente e permite copiá-las para a área 
 
 <p align="center">
   <a href="./README.md">🇧🇷 Português</a> |
-  <a href="./README.EN.md">🇺🇸 English</a>
+  <a href="./README.en.md">🇺🇸 English</a>
 </p>
