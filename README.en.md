@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./README.md">🇧🇷 Portuguese</a> |
+  <a href="./README.md">🇧🇷 Português</a> |
   <a href="./README.EN.md">🇺🇸 English</a>
 </p>
 
